@@ -1,8 +1,6 @@
 import 'package:allen/feature_box.dart';
 import 'package:allen/pallete.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
