@@ -9,8 +9,8 @@ class FeatureBox extends StatelessWidget {
   const FeatureBox({
       super.key,
       required this.color,
-       required this.headerText,
-       required this.descriptionText,
+      required this.headerText,
+      required this.descriptionText,
     });
 
   @override
